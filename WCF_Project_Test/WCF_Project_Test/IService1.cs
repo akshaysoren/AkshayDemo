@@ -19,7 +19,7 @@ namespace WCF_Project_Test
         [OperationContract]
         CompositeType GetDataUsingDataContract(CompositeType composite);
 
-        // TODO: Add your service operations here
+       // // TODO: Add your service operations here
     }
 
 
